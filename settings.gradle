@@ -1,2 +1,3 @@
-rootProject.name='VMeet'
+rootProject.name='GingerTalk'
 include ':app'
+//update: dont edit this file to prevent bugs
