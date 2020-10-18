@@ -81,4 +81,5 @@ exit /b 1
 :mainEnd
 if "%OS%"=="Windows_NT" endlocal
 
-:omega
+:omega3
+//edit omega3 : omega
